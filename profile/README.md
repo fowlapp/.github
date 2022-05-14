@@ -1,4 +1,4 @@
-## Welcome to Fowl 🐓
+## Welcome to Rooster 🐓
 
 <!--
 
